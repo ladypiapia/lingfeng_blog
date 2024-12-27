@@ -15,11 +15,11 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Lingfeng"
+   name = "凌风"
    email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
+   image = "profile.JPG"
    imageQuality = 96
-   headline = "I'm only human"
+   headline = "凌风迥秀，响振虚谷"
    bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
