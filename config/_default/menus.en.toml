@@ -11,6 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  pre = "square-pen"
   name = "Blog"
   pageRef = "posts"
   weight = 10

@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "zh-cn"
-languageName = "中文"
+languageCode = "en"
+languageName = "English"
 weight = 1
-title = "凌风"
+title = "Windbyte"
 
 [params]
-  displayName = "中文"
-  isoCode = "zh-cn"
+  displayName = "English"
+  isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
@@ -14,13 +14,13 @@ title = "凌风"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
- [params.author]
-   name = "凌风"
-   email = "windskimming@gmail.com"
-   image = "img/author.png"
-   imageQuality = 96
-   headline = "凌风迥秀，响振虚谷"
-   bio = "凌风迥秀，响振虚谷"
+[params.author]
+  name = "Windbyte"
+  email = "windskimming@gmail.com"
+  image = "img/author.png"
+  imageQuality = 96
+  headline = "Wind in Code, Echo in Void."
+  bio = "The wind is skimming"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
