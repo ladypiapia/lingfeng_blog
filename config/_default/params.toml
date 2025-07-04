@@ -24,7 +24,7 @@ disableTextInHeader = false
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
@@ -42,7 +42,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "background.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
@@ -51,6 +51,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
+  disableHeroImageFilter = false  # only used when layout equals hero
 
 [article]
   showDate = true
